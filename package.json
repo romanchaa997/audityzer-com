@@ -1,0 +1,12 @@
+{
+  "name": "audityzer-com",
+  "version": "1.0.0",
+  "description": "Website for audityzer.com - Hosted on Cloudflare Pages",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "echo 'Build process completed'",
+    "dev": "echo 'Development mode'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
